@@ -1,3 +1,7 @@
 /target/
 **/*.rs.bk
 Cargo.lock
+*dds_rtps_uml_xmi.*
+xmi_*.txt
+/src/Protocol/
+/src/Profile_for_DDS__Protocol1/
